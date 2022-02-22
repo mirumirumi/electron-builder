@@ -1,3 +1,12 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.0.0...v) (2022-02-22)
+
+
+### Bug Fixes
+
+* signing of user-defined binaries on mac when resolved as relative path ([#6660](https://github.com/electron-userland/electron-builder/issues/6660)) ([4c6d154](https://github.com/electron-userland/electron-builder/commit/4c6d1546d4942aa9d9a93b7309e8ed279f6378d2))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.0.0-alpha.4...v) (2022-02-19)
 
 
